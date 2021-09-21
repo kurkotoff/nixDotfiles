@@ -5,6 +5,7 @@
     zsh
     vscode
     brave
+    vivaldi
     yakuake
     lutris
     git
@@ -16,7 +17,16 @@
     whatsapp-for-linux
     glib-networking
     gimp
-    neovim
+    (lib.lowPrio neovim)
     wget
+    protonvpn-gui
+    ripgrep
+    fd
+    coreutils
+    clang
+    emacs
+    unzip
+    clang-tools
+    sddm
   ];
 }
